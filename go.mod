@@ -11,6 +11,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/sirupsen/logrus v1.7.0
 	github.com/stretchr/testify v1.6.1 // indirect
+	github.com/tdh8316/Investigo v0.0.0-20210326150329-f4c76e0c6532
 	github.com/tidwall/gjson v1.6.3
 	github.com/tidwall/match v1.0.2 // indirect
 	golang.org/x/net v0.0.0-20201110031124-69a78807bb2b
